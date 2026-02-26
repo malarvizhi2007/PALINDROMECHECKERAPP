@@ -1,26 +1,5 @@
-/**
- * ==========================================================
- * MAIN CLASS - UseCase10PalindromeCheckerApp
- * ==========================================================
- *
- * Use Case 10: Normalized Palindrome Validation
- *
- * Description:
- * This class validates a palindrome after preprocessing
- * the input string.
- *
- * Normalization includes:
- * - Removing spaces and symbols
- * - Converting to lowercase
- *
- * Example:
- * "A man a plan a canal Panama"
- *
- * @author Developer
- * @version 10.0
- */
 
-public class UseCase10PalindromeCheckerApp {
+public class PalindromeCheckerApp {
 
     /**
      * Application entry point for UC10.
